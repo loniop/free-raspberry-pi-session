@@ -1,2 +1,4 @@
-# free-raspberry-pi-session-rpi-pi-pi4-rpi4
-raspberry pi vnc session for people looking to try a raspberry pi.
+# free-raspberry-pi-session
+raspberry pi vnc session. create a issue to get a session. will be using online novnc.
+**NO ROOT ACSESS**
+
