@@ -2,7 +2,7 @@
 
 Raspberry Pi session for 2 hrs. Go to issues to request a session.
 
-**!NO ROOT ACSESS!**
+**!NO ROOT ACCESS!**
 
 ## donations
 
