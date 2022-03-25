@@ -1,8 +1,8 @@
 # Raspberry Pi server session free!
 
-raspberry pi session for 2 hrs. Go to issues to request a session.
+Raspberry Pi session for 2 hrs. Go to issues to request a session.
 
-**NO ROOT ACSESS**
+**!NO ROOT ACSESS!**
 
 ## donations
 
